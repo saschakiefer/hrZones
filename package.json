@@ -1,0 +1,25 @@
+{
+  "name": "hrzones",
+  "version": "0.0.1",
+  "description": "Shows the Heart Rate distributed to zones from a .tcx file",
+  "main": "hrZones.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saschakiefer/hrZones.git"
+  },
+  "author": "Sascha Kiefer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saschakiefer/hrZones/issues"
+  },
+  "homepage": "https://github.com/saschakiefer/hrZones#readme",
+  "dependencies": {
+    "babar": "^0.2.0",
+    "commander": "^2.12.2",
+    "tcx-js": "^0.1.2",
+    "winston": "^2.4.0"
+  }
+}
